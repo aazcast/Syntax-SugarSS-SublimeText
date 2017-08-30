@@ -1,0 +1,8 @@
+{
+	"scope": "source.sss - variable.other",
+
+	"completions":
+	[
+		{ "trigger": "new-breakpoint\tBourbon-Neat", "contents": "new-breakpoint($1)" }
+	]
+}
