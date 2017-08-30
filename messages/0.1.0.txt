@@ -1,0 +1,6 @@
+-------
+For more details please check https://github.com/aazcast/syntax-sugarss-sublimetext
+-------
+
+-------------
+Enjoy coding!
