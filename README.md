@@ -3,7 +3,7 @@
 Syntax highlighting package for SugarSS (PostCSS) on Sublime Text. 
 This is a fork from Syntax highlighting for SASS, and edited to work with SugarSS
 
-Install via [Package Control]().
+Install via [Package Control](https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20SSS%20SugarSS).
 
 version tag: 0.1.0
 
