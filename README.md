@@ -5,6 +5,7 @@ This is a fork from Syntax highlighting for SASS, and edited to work with SugarS
 
 Install via [Package Control]().
 
+version tag: 0.1.0
 
 ## Features:
 
